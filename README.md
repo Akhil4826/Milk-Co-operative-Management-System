@@ -121,9 +121,9 @@ Before installing, ensure you have:
 
 ### 10.2 Setup Instructions
 1. Clone this repository to your local machine.
-2. Install MySQL and create a new database:
+2. Install MySQL and create a new database and create the tables mentioned in the milk.sql:
     ```sql
-    CREATE DATABASE milk_cooperative;
+    CREATE DATABASE milk;
     ```
 3. Run the provided SQL script to set up the necessary tables.
 4. Open the Java project in your preferred IDE (Eclipse, IntelliJ, etc.).
@@ -156,5 +156,10 @@ The **Milk Cooperative Database System** offers a game-changing solution for rur
 ![Screenshot (249)](https://github.com/user-attachments/assets/314803d7-58bf-4af7-a737-691d69712e78)
 ![Screenshot (255)](https://github.com/user-attachments/assets/d674a99b-cd15-429d-8c44-736db19ffe90)
 ![Screenshot (266)](https://github.com/user-attachments/assets/9a6f534b-4071-42ae-9d3a-fc8f0e92fafb)
+
+Messaging Application
+
+![Screenshot (273)](https://github.com/user-attachments/assets/e5e5931a-01ed-44f8-a8ee-a47585d613f4)
+
 
 
