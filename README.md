@@ -147,3 +147,14 @@ There are several ways to enhance the system in the future:
 
 ## 12. Conclusion <a name="conclusion"></a>
 The **Milk Cooperative Database System** offers a game-changing solution for rural dairy cooperatives. By digitizing processes like milk collection, payments, and communication, it improves efficiency, transparency, and the overall livelihoods of farmers. As the system evolves, the integration of new technologies like IoT, machine learning, and blockchain will further enhance its impact, ensuring sustainable development for rural dairy communities.
+
+
+![Screenshot (231)](https://github.com/user-attachments/assets/7647954f-b11d-4a65-b40b-39c109090cb7)
+![Screenshot (232)](https://github.com/user-attachments/assets/e7922da6-67b4-4ba5-a0d6-0c5735d318e1)
+![Screenshot (233)](https://github.com/user-attachments/assets/b740df7f-44e8-4477-bab1-16bdf74e62b8)
+![Screenshot (241)](https://github.com/user-attachments/assets/4293cc73-3eb2-42b6-8652-43bd03eb68f5)
+![Screenshot (249)](https://github.com/user-attachments/assets/314803d7-58bf-4af7-a737-691d69712e78)
+![Screenshot (255)](https://github.com/user-attachments/assets/d674a99b-cd15-429d-8c44-736db19ffe90)
+![Screenshot (266)](https://github.com/user-attachments/assets/9a6f534b-4071-42ae-9d3a-fc8f0e92fafb)
+
+
