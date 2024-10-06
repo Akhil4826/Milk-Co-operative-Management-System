@@ -15,6 +15,7 @@ Installation and Setup
 Future Scope
 Conclusion
 1. Introduction <a name="introduction"></a>
+
 In rural villages, dairy farming plays a crucial role in the local economy. However, traditional cooperatives face many challenges due to inefficient manual record-keeping and lack of real-time information. The Milk Cooperative Database System addresses these issues by providing a digital platform to manage dairy operations, streamline processes, and foster economic growth in rural areas.
 
 2. Problem Definition <a name="problem-definition"></a>
