@@ -1,17 +1,32 @@
-Milk Cooperative Management System
-Table of Contents
+# Milk Cooperative Management System
+
+# Table of Contents
+
 Introduction
+
 Problem Definition
+
 Objectives
+
 Technologies Used
+
 System Architecture
+
 Modules
+
 Database Design
+
 User Interface Design
+
 Testing
+
 Installation and Setup
+
 Future Scope
+
 Conclusion
+
+
 1. Introduction <a name="introduction"></a>
 In many rural villages, dairy farming is more than just a livelihood; it’s the backbone of the local economy. However, traditional milk cooperatives often face challenges due to outdated, manual record-keeping systems and a lack of real-time information. This is where the Milk Cooperative Database System comes in.
 
