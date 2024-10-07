@@ -1,19 +1,22 @@
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/7831f049-1834-42c9-a292-d59b49237140" alt="Milk Cooperative Logo" width="150px">
 </p>
 
-<h1 align="center">🐄 Milk Cooperative Management System</h1>
-<p align="center">
-  An innovative solution to digitize and optimize dairy cooperatives, ensuring transparency and efficiency for rural farmers.
+<h1 align="center" style="font-size: 2.5em;">🐄 Milk Cooperative Management System</h1>
+<p align="center" style="font-size: 1.2em;">
+  Digitizing rural dairy cooperatives for efficiency and transparency
 </p>
 
 ---
 
-## 🚀 **Features at a Glance**
-- **Modern UI:** Sleek, intuitive dashboards for farmers and administrators.
-- **Automated Billing & Payments:** Real-time tracking of financials.
-- **Quality Control:** Ensures the best standards for milk production.
-- **Data Analytics:** Actionable insights for improving productivity.
-- **Secure & Scalable:** Built with a focus on data privacy and future growth.
+## 🚀 **Key Features**
+- **Modern UI** with intuitive dashboards
+- **Automated Billing & Payments** for real-time financial tracking
+- **Quality Control** for milk standards assurance
+- **Data Analytics** to boost productivity
+- **Secure & Scalable** infrastructure
+
+---
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -34,28 +37,87 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🌱 **Introduction** <a name="introduction"></a>
-In rural areas, dairy farming supports livelihoods, but outdated systems lead to inefficiencies. The **Milk Cooperative Management System** transforms traditional processes into a seamless digital platform. By automating milk collection, payments, and communication, the system empowers both farmers and cooperatives to boost productivity, transparency, and growth.
+The **Milk Cooperative Management System** is designed to optimize the operations of rural dairy cooperatives by digitizing milk collection, billing, quality control, and communication between farmers and managers. This system fosters transparency and increases efficiency by automating many manual tasks.
+
+---
+## 📸 **Snapshots of the Application** <a name="snapshots"></a>
+
+### 🏠 **Homepage**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e66254e1-c1b7-45eb-bdb5-af0af327f518" alt="Homepage" width="600px">
+</p>
+*The homepage serves as the central hub for users, displaying an overview of the Milk Cooperative Management System. It provides quick access to various functionalities, including the latest updates and announcements relevant to farmers and employees.*
+
+---
+
+### 🔑 **Login Page**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b25f70f-443e-443d-8484-ae4551a6dce8" alt="Login Page" width="600px">
+</p>
+*The login page provides secure access to the application, requiring users to enter their credentials. It ensures that only authorized personnel can access sensitive data, maintaining the integrity of the system.*
+
+---
+
+### 🐄 **Farmer Dashboard**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2dc8c2e4-77fd-48f5-b8d1-4782655d3747" alt="Payment Receiver in Farmer Dashboard" width="600px">
+</p>
+*The farmer dashboard presents a user-friendly interface for farmers to manage their activities. This page includes a payment receiver feature that allows farmers to view their payment details and track financial transactions easily.*
+
+---
+
+### 👨‍🌾 **Employee Dashboard**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60e1f31b-1772-4871-a13a-9fad176b5b3a" alt="Employee Dashboard" width="600px">
+</p>
+*The employee dashboard allows staff to manage farmer records, log daily milk collections, and track billing history. This page facilitates efficient operations within the cooperative by providing essential data management tools.*
+
+---
+
+### 📊 **Employee Visualization**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8d0085d-60f9-4e78-964a-6d5712691fe3" alt="Visualization of Employees Working in the Cooperative" width="600px">
+</p>
+*This page provides a visualization of the employees working in the cooperative, allowing management to track workforce productivity and ensure that resources are allocated efficiently.*
+
+---
+
+### 💬 **Messaging Application in Employee Dashboard**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52c24af7-8221-4103-9854-8845569c76d9" alt="Messaging Application in Employee Dashboard" width="600px">
+</p>
+*The messaging application within the employee dashboard enables communication between staff members, facilitating collaboration and ensuring that important updates are shared promptly.*
+
+---
+
+### 📋 **Complaints Page in Farmer Dashboard**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9c3882a-a097-4cfd-8d29-5c185c049ab4" alt="Complaints Page in Farmer Dashboard" width="600px">
+</p>
+*The complaints page allows farmers to report any issues or concerns regarding the services provided. This feature ensures that the cooperative can address problems promptly and maintain a high level of service.*
+
+---
+
+### 📄 **About Page**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72c61bec-2da0-41fe-b3b3-0dacce946952" alt="About Page" width="600px">
+</p>
+*The about page outlines the objectives and benefits of the Milk Cooperative Management System. It gives users insight into the purpose of the application and how it enhances dairy cooperative operations.*
 
 ---
 
 ## 🔍 **Problem Definition** <a name="problem-definition"></a>
-Traditional cooperatives face several challenges:
-- Manual record-keeping, leading to **errors** and **delays**.
-- **Lack of transparency** in payments and data.
-- **Limited real-time access** to production and quality information.
-- **Inefficient communication** between farmers and managers.
-- **Resistance to technology** adoption, hindering growth.
+Traditional cooperatives encounter challenges such as manual record-keeping, lack of transparency, and inefficient communication. The **Milk Cooperative Management System** solves these issues by providing an automated digital solution.
 
 ---
 
 ## 🎯 **Objectives** <a name="objectives"></a>
 This system aims to:
-- **Digitize record-keeping** to ensure accurate, real-time data.
-- Implement **transparent payment systems** for better farmer trust.
-- Provide **automated quality checks** for milk.
-- Improve **farmer-manager communication** with user-friendly tools.
-- **Analyze market trends** to align production with demand.
-- Develop **mobile apps** to make the system accessible to all users.
+- **Digitize record-keeping** to avoid manual errors
+- Ensure **transparent payments**
+- Implement **automated quality checks**
+- Provide seamless **farmer-manager communication**
+- **Analyze market trends** for better production alignment
 
 ---
 
@@ -64,14 +126,14 @@ This system aims to:
 |---------------------------|-------------------------|
 | Java                       | Core Programming        |
 | MySQL                      | Database Management     |
-| Java Swing & AWT           | User Interface Design   |
+| Java Swing & AWT           | UI Design               |
 | Eclipse IDE, MySQL Server  | Development Environment |
 | Windows XP or higher       | Operating System        |
 
 ---
 
 ## 🏗️ **System Architecture** <a name="system-architecture"></a>
-The system follows a **modular architecture**, with components such as the **Farmer Dashboard**, **Employee Dashboard**, and **Billing** module all integrated into a centralized MySQL database. This allows seamless real-time data sharing across all user types.
+The system follows a **modular architecture** integrating farmer dashboards, employee dashboards, and billing modules through a centralized MySQL database.
 
 <p align="center">
   <img src="images/system_architecture.png" alt="System Architecture" width="400px">
@@ -82,26 +144,24 @@ The system follows a **modular architecture**, with components such as the **Far
 ## 📋 **Modules** <a name="modules"></a>
 
 ### 🌾 6.1 Farmer Dashboard
-- **Animal Management:** Track animal health, breed, and milk production.
-- **Milk Contribution:** Record daily contributions and track milk quality.
-- **Billing:** View and download invoices for milk supplied.
+- **Animal Management:** Track health, breed, and milk production.
+- **Milk Contribution:** Record daily contributions.
+- **Billing:** View and download invoices.
 
 ### 📊 6.2 Employee Dashboard
-- **Farmer Management:** Add, edit, and manage farmer records.
-- **Daily Records:** Log daily milk collection and quality reports.
-- **Billing History:** Track payments, dues, and other financials.
+- **Farmer Management:** Add and edit farmer records.
+- **Daily Records:** Log daily milk collection and quality checks.
 
 ### 🔐 6.3 Login System
-- **Secure Authentication** with role-based access for farmers, employees, and admins.
+- **Secure Authentication** with role-based access.
 
 ---
 
 ## 🗃️ **Database Design** <a name="database-design"></a>
-The MySQL database stores all relevant data, ensuring secure and efficient management:
-- **Farmer details** (contact info, payments).
-- **Animal records** (production stats, breed).
-- **Milk quality and collection logs**.
-- **Billing and payment histories**.
+The MySQL database securely stores all cooperative data:
+- **Farmer details**
+- **Animal production records**
+- **Billing history**
 
 <p align="center">
   <img src="images/database_schema.png" alt="Database Schema" width="450px">
@@ -110,72 +170,61 @@ The MySQL database stores all relevant data, ensuring secure and efficient manag
 ---
 
 ## 🖥️ **User Interface Design** <a name="user-interface-design"></a>
-- **Farmer-Friendly UI:** Simple dashboards for real-time data entry and viewing.
-- **Responsive Layouts:** Works seamlessly on desktops, tablets, and mobile devices.
-- **Data Visualization:** Real-time graphs and tables for production, billing, and quality monitoring.
+The interface is built with user-friendliness in mind:
+- **Farmer-friendly dashboards** for easy data entry.
+- **Responsive layout** that works on desktop and mobile devices.
+- **Data visualization** for insights into milk production and billing.
 
 ---
 
 ## 🧪 **Testing** <a name="testing"></a>
 
 ### ✅ 9.1 Test Cases
-- **Login Module:** Validated secure access.
-- **Data Entry:** Ensured accuracy of milk contributions and billing data.
-- **Error Handling:** Successfully handled invalid inputs and duplicates.
-
-### 📊 9.2 Test Results
-All modules passed extensive testing with accurate data synchronization and real-time performance.
+- **Login Module:** Tested for secure access and session management.
+- **Data Entry:** Ensured correct milk and billing data entries.
+- **Error Handling:** Handled invalid inputs and duplicates.
 
 ---
+
 ## ⚙️ **Installation and Setup** <a name="installation-and-setup"></a>
 
-### 📋 Prerequisites:
-Before proceeding with the installation, ensure you have the following software installed:
-- **Java Development Kit (JDK)** – for Java development and compilation.
-- **MySQL Server** – to store and manage cooperative data securely.
+### Prerequisites
+- **Java Development Kit (JDK)**
+- **MySQL Server**
 
-### 🛠️ Step-by-Step Setup Instructions:
-
-1. **Install MySQL** and set up the server with your preferred configuration. Then, execute the provided SQL script to create the necessary database:
+### Setup Steps:
+1. Install MySQL and run the provided SQL script:
     ```sql
     CREATE DATABASE milk_cooperative;
     ```
-    This command creates the foundational database for the system.
 
-2. **Update the `app.properties` file** with your MySQL connection credentials. Ensure the following fields are correctly filled out:
+2. Update `app.properties` with MySQL credentials:
     ```properties
     db.url=jdbc:mysql://localhost:3306/milk_cooperative
     db.user=root
     db.password=yourpassword
     ```
 
-3. **Compile and run** the Java application from your command line:
+3. Compile and run the Java application:
     ```bash
     javac Main.java
     java Main
     ```
-    This will start the application, connecting it to your MySQL database.
 
 ---
 
 ## 🚀 **Future Scope** <a name="future-scope"></a>
 
-The **Milk Cooperative Management System** has immense potential for future upgrades:
-
-- **IoT Integration:** Employ IoT sensors to monitor real-time data on milk production and animal health, improving operational efficiency.
-  
-- **Machine Learning:** Utilize machine learning algorithms to predict milk production trends, providing data-driven insights to optimize cooperative operations.
-
-- **Blockchain Technology:** Implement blockchain to ensure transparent and immutable records of financial transactions, enhancing trust between farmers and cooperatives.
-
-- **Mobile App Development:** Expand the platform by building mobile apps, enabling farmers and managers to access data and perform transactions from anywhere.
+- **IoT Integration** for real-time milk production monitoring.
+- **Machine Learning** for milk production trend predictions.
+- **Blockchain** for secure financial records.
+- **Mobile App** development for easy access.
 
 ---
 
 ## 🌟 **Conclusion** <a name="conclusion"></a>
-
-The **Milk Cooperative Management System** transforms traditional dairy operations by digitizing milk collection, payments, and quality control processes. By fostering transparency and enhancing communication, the system empowers cooperatives and farmers alike. With future upgrades, including IoT, machine learning, and blockchain integration, the system will continue to drive sustainable growth and innovation in rural dairy communities.
+The **Milk Cooperative Management System** digitizes dairy operations, ensuring transparency, efficiency, and growth. Future integration with IoT, blockchain, and machine learning will further enhance cooperative management.
 
 <p align="center">
-  <img src="images/conclusion.png" alt="Conclusion Image" width="400px">
+  <img src="images/conclusion.png" alt="Conclusion" width="400px">
 </p>
