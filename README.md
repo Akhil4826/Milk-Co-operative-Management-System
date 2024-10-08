@@ -31,8 +31,9 @@
 8. [User Interface Design](#user-interface-design)
 9. [Testing](#testing)
 10. [Installation and Setup](#installation-and-setup)
-11. [Future Scope](#future-scope)
-12. [Conclusion](#conclusion)
+11. [Required JAR Files](#required-jar-files)
+12. [Future Scope](#future-scope)
+13. [Conclusion](#conclusion)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -213,6 +214,26 @@ The interface is built with user-friendliness in mind:
 
 ---
 
+## 📦 **Required JAR Files** <a name="required-jar-files"></a>
+
+To ensure the application runs smoothly, you need to add the following JAR files to your classpath. These are essential for the application to work as intended:
+
+1. **Hibernate Core**: `hibernate-core-5.3.1.Final.jar`
+2. **MySQL Connector**: `mysql-connector-j-8.2.0.jar`
+3. **JAXB API**: `jaxb-api-2.3.1.jar`
+4. **FontAwesomeFX**: `fontawesomefx-8.9.jar`
+5. **Javassist**: `javassist-3.18.1-GA.jar`
+6. **JFreeChart**: `jfreechart-1.5.3.jar`
+7. **Hibernate Validator**: `hibernate-validator.jar`
+8. **JBoss Logging**: `jboss-logging-3.3.0.Final.jar`
+9. **JavaFX**: `javafx-graphics-22-ea+28-linux.jar`, `javafx-base-22-ea+28.jar`
+10. **DOM4J**: `dom4j-1.6.1.jar`
+11. **ANTLR**: `antlr-2.7.7.jar`
+12. **Geronimo JTA**: `geronimo-jta-1.1_spec-1.1.1.jar`
+
+You can download the required libraries from their official repositories or use a dependency manager like Maven or Gradle to manage them efficiently.
+
+---
 ## 🚀 **Future Scope** <a name="future-scope"></a>
 
 - **IoT Integration** for real-time milk production monitoring.
