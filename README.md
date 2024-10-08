@@ -1,20 +1,30 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=4CAF50&size=30&center=true&vCenter=true&width=600&height=60&lines=🐄+Dairy+Cooperative+Management+System;📊+Efficiency+in+Dairy+Operations;💡+Empowering+Farmers+Digitally">
+</h1>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7831f049-1834-42c9-a292-d59b49237140" alt="Milk Cooperative Logo" width="150px">
+  <img src="https://github.com/user-attachments/assets/7831f049-1834-42c9-a292-d59b49237140" alt="Dairy Cooperative Logo" width="160px">
 </p>
 
-<h1 align="center" style="font-size: 2.5em;">🐄 Milk Cooperative Management System</h1>
-<p align="center" style="font-size: 1.2em;">
-  Digitizing rural dairy cooperatives for efficiency and transparency
+<p align="center" style="font-size: 1.3em; color: #555;">
+  <em>Empowering dairy cooperatives with technology for streamlined operations and enhanced transparency</em>
 </p>
 
----
+<hr style="border: 1px solid #e0e0e0; margin-top: 20px;">
 
-## 🚀 **Key Features**
-- **Modern UI** with intuitive dashboards
-- **Automated Billing & Payments** for real-time financial tracking
-- **Quality Control** for milk standards assurance
-- **Data Analytics** to boost productivity
-- **Secure & Scalable** infrastructure
+<div align="center" style="background-color:#f5f5f5; padding: 15px; border-radius: 10px; width: 80%; margin: auto;">
+  <b>📈 Automated Billing | 💼 Milk Quality Monitoring | 🔍 Farmer Productivity Tracking</b>
+</div>
+
+<hr style="border: 1px solid #e0e0e0; margin-top: 30px;">
+
+## 🔑 Key Features
+- 🐄 **Daily Milk Contribution Tracking** with detailed insights.
+- 💸 **Automated Payment Calculation** for farmers based on contributions.
+- 📊 **Productivity Dashboards** for real-time monitoring.
+- 🔐 **Secure and Scalable** for rural cooperatives to large enterprises.
+- 📋 **Quality Assurance** with customizable quality checks.
+
 
 ---
 
@@ -159,14 +169,23 @@ The system follows a **modular architecture** integrating farmer dashboards, emp
 ---
 
 ## 🗃️ **Database Design** <a name="database-design"></a>
-The MySQL database securely stores all cooperative data:
+The MySQL database securely stores all cooperative data, ensuring a structured and organized management of:
 - **Farmer details**
 - **Animal production records**
 - **Billing history**
 
 <p align="center">
-  <img src="images/database_schema.png" alt="Database Schema" width="450px">
+  <img src="https://github.com/user-attachments/assets/70d54930-410f-46de-81f9-a10fe0ee86b2" alt="Database Schema Screenshot 1" width="450px">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80e7bcdf-66da-49ff-8704-12043d61a253" alt="Database Schema Screenshot 2" width="450px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4bf0f38-b0f5-4c14-b7a4-8fa01ab559a6" alt="Database Schema Screenshot 3" width="450px">
+</p>
+
 
 ---
 
